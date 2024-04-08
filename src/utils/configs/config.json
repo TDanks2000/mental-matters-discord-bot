@@ -1,0 +1,9 @@
+{
+  "color": "#fbc531",
+  "music": {
+    "emitNewSongOnly": true,
+    "nsfw": false,
+    "leaveOnStop": true,
+    "leaveOnEmpty": true
+  }
+}
