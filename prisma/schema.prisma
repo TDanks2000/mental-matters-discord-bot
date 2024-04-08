@@ -88,3 +88,22 @@ model AutoJoinRoles {
   guild_id String
   role     String
 }
+
+model ChannelSettings {
+  id                        Int      @id @unique @default(autoincrement())
+  guid_id                   String   @unique
+  channel_id_reddit_posts   String?  @unique
+  subreddits                String[] @default([])
+  subreddits_interval_hours Int      @default(3)
+  channel_id_members        String?  @unique
+  channel_id_online         String?  @unique
+  channel_id_offline        String?  @unique
+}
+
+model RedditPosts {
+  id        Int    @id @unique @default(autoincrement())
+  title     String
+  sub       String
+  guiid_id  String
+  reddit_id String
+}

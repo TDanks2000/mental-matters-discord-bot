@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start": "git pull & yarn build & yarn db:generate & cross-env NODE_ENV=production node ./dist/Bot.js",
     "proj:init": "yarn && yarn run db:generate",
     "db:generate": "prisma generate",
     "db:push": "prisma migrate dev",
-    "start": "cross-env NODE_ENV=production node ./dist/Bot.js",
     "dev": "nodemon --config nodemon.json src/Bot.ts",
     "build": "tsc"
   },
@@ -26,6 +26,7 @@
   "devDependencies": {
     "@types/ms": "^0.7.34",
     "@types/node": "^20.12.5",
+    "cross-env": "^7.0.3",
     "nodemon": "^3.1.0",
     "prisma": "^5.12.1",
     "ts-node": "^10.9.2",
