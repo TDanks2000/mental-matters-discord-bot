@@ -1,0 +1,1975 @@
+[
+  {
+    "country": "Algeria",
+    "emergency_numbers": {
+      "police": ["17", "1548 for foreigners"],
+      "ambulance": "43",
+      "fire": "14"
+    },
+    "helplines": [
+      {
+        "name": "Suicide Hotline Algeria",
+        "phone": "0021 3983 2000 58"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "emergency_numbers": {
+      "national": "911",
+      "ambulance": "107",
+      "police": "101",
+      "fire": "100"
+    },
+    "helplines": [
+      {
+        "name": "Centro de Asistencia al Suicida",
+        "phone": "135 (Greater Buenos Aires) or 5275–1135 (rest of the country)"
+      },
+      {
+        "name": "SOS Un Amigo Anonimo",
+        "phone": "5263–0583",
+        "availability": "Monday to Friday: 10am to 7pm, Saturday: 10am to 4pm"
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "emergency_numbers": {
+      "national": ["112", "911"]
+    },
+    "helplines": [
+      {
+        "name": "Trust Social Work and Sociological Research Centre",
+        "phone": "(2) 538194 or (2) 538197"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "emergency_numbers": {
+      "national": ["000", "112", "106"]
+    },
+    "helplines": [
+      {
+        "name": "Lifeline",
+        "phone": "13 11 14",
+        "website": "https://www.lifeline.org.au"
+      },
+      {
+        "name": "Kids Helpline",
+        "phone": "1800 55 1800",
+        "website": "https://kidshelpline.com.au"
+      },
+      {
+        "name": "Beyond Blue",
+        "phone": "1300 224 636",
+        "website": "https://www.beyondblue.org.au"
+      },
+      {
+        "name": "Suicide Call Back Service",
+        "phone": "1300 659 467",
+        "website": "https://www.suicidecallbackservice.org.au"
+      },
+      {
+        "name": "MensLine Australia",
+        "phone": "1300 78 99 78",
+        "website": "https://mensline.org.au"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "emergency_numbers": {
+      "national": "112",
+      "fire": "122",
+      "police": "133",
+      "ambulance": "144"
+    },
+    "helplines": [
+      {
+        "name": "Telefonseelsorge (Samaritan Telephone)",
+        "phone": "142",
+        "availability": "24 hours a day, free of charge"
+      },
+      {
+        "name": "Rat auf Draht",
+        "phone": "147",
+        "availability": "24 hours a day, free of charge"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Youth Crisis Hotline",
+        "phone": "510–66–36"
+      }
+    ]
+  },
+  {
+    "country": "The Bahamas",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "National Suicide Hotline",
+        "phone": "322–2763"
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "emergency_numbers": {
+      "national": "999"
+    }
+  },
+  {
+    "country": "Bangladesh",
+    "emergency_numbers": {
+      "national": "999",
+      "ambulance_fire": "199"
+    },
+    "helplines": [
+      {
+        "name": "Kaan Pete Roi",
+        "website": "http://shuni.org/"
+      }
+    ]
+  },
+  {
+    "country": "Barbados",
+    "emergency_numbers": {
+      "police": "211",
+      "ambulance": "511",
+      "fire": "311"
+    },
+    "helplines": [
+      {
+        "name": "Samaritans of Barbados",
+        "phone": "(246) 4299999"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "emergency_numbers": {
+      "national": "112",
+      "police": "102",
+      "ambulance": "103"
+    },
+    "helplines": [
+      {
+        "name": "Victims of Violence Hotline",
+        "phone": "8 801 100 8 801",
+        "availability": "24/7, anonymous"
+      },
+      {
+        "name": "Children Hotline",
+        "phone": "801–100–1611",
+        "availability": "24/7, anonymous"
+      },
+      {
+        "name": "Other Psychological Help Hotlines",
+        "website": "minzdrav.gov.by"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Stichting Zelfmoordlijn 1813",
+        "phone": "1813",
+        "website": "https://www.zelfmoord1813.be/chat-met-zelfmoordlijn-1813"
+      },
+      {
+        "name": "Stichting Centre de Prévention du Suicide",
+        "phone": "080032123",
+        "website": "https://www.preventionsuicide.be/fr/j-ai-besoin-d-aide.html"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "emergency_numbers": {
+      "police": "122",
+      "fire": "123",
+      "national": "124"
+    },
+    "helplines": [
+      {
+        "name": "Centar Srce",
+        "phone": "0800-300303"
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "Teléfono de la Esperanza",
+        "phone": "(00 591 4) 4 25 42 42 and 75288084"
+      }
+    ]
+  },
+  {
+    "country": "Botswana",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "National Lifeline",
+        "phone": "3911270"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "emergency_numbers": {
+      "national": "190",
+      "police_ambulances": ["190", "192"],
+      "suicide_hotline": "188"
+    },
+    "helplines": [
+      {
+        "name": "Centro de Valorização da Vida",
+        "phone": "188",
+        "website": "http://www.cvv.org.br/"
+      }
+    ]
+  },
+  {
+    "country": "Brunei",
+    "emergency_numbers": {
+      "ambulance": "991",
+      "police": "993",
+      "suicide_hotline": "145"
+    }
+  },
+  {
+    "country": "Bulgaria",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Bulgarian Red Cross",
+        "website": "https://www.redcross.bg/activities/activities5/telefon.html"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "988 Suicide Crisis Helpline",
+        "phone": "1–833–456–4566",
+        "text": "45645",
+        "website": "https://talksuicide.ca/"
+      },
+      {
+        "name": "Kids Help Phone",
+        "website": "https://kidshelpphone.ca/"
+      },
+      {
+        "name": "Talk Suicide Canada",
+        "phone": "1–833–456–4566",
+        "text": "45645",
+        "website": "https://talksuicide.ca/"
+      },
+      {
+        "name": "Crisis Text Line",
+        "text": "686868",
+        "english_keyword": "HOME",
+        "french_keyword": "PARLER",
+        "website": "https://www.crisistextline.ca/"
+      },
+      {
+        "name": "Trans Lifeline",
+        "phone": "1-877-330-6366",
+        "website": "http://www.translifeline.org/"
+      },
+      {
+        "name": "Canadian Association for Suicide Prevention",
+        "website": "https://suicideprevention.ca"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "emergency_numbers": {
+      "national_suicide": "*4141"
+    },
+    "helplines": [
+      {
+        "name": "Salud Responde (Ministerio de Salud)",
+        "phone": "600 360 7777"
+      },
+      {
+        "name": "Saludable Mente",
+        "website": "https://gob.cl/saludablemente/"
+      },
+      {
+        "name": "Todo Mejora",
+        "website": "https://todomejora.org/apoyo/"
+      },
+      {
+        "name": "Fundacion Vinculos",
+        "phone": "5622 2442 533 and 5698 2481 971"
+      },
+      {
+        "name": "Línea Libre (Fundación Para la Confianza)",
+        "phone": "1515",
+        "app": "https://play.google.com/store/apps/details?id=com.ltmessenger.linealibre&hl=es_419"
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "emergency_numbers": {
+      "police": "110",
+      "ambulance": "120"
+    },
+    "helplines": [
+      {
+        "name": "Beijing Suicide Research and Prevention Center",
+        "phone": "800–810–1117 (landline) or 010–8295–1332 (mobile and VoIP)"
+      },
+      {
+        "name": "Lifeline China",
+        "phone": "400 821 1215",
+        "availability": "10am to 10pm every day",
+        "website": "https://www.lifelinechina.org/"
+      },
+      {
+        "name": "Shanghai Mental Health Center",
+        "phone": "021–64387250",
+        "website": "http://www.smhc.org.cn"
+      },
+      {
+        "name": "Shenzhen Mental Health Center",
+        "phone": "400-995-995-9",
+        "availability": "24/7",
+        "website": "http://www.szknyy.com/"
+      },
+      {
+        "name": "Guangzhou Crisis Research and Intervention Center",
+        "phone": "020–81899120 or 020–12320–5",
+        "availability": "24/7",
+        "website": "http://www.gzcrisis.com/"
+      },
+      {
+        "name": "Mental Health Center of School of Medicine of Zhejiang University",
+        "phone": "0571–85029595",
+        "availability": "24/7",
+        "website": "http://www.hz7hospital.com/"
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "emergency_numbers": {
+      "national": "123"
+    },
+    "helplines": [
+      {
+        "name": "106",
+        "description": "Provides support for issues such as depression, alcoholism, drug abuse, and suicide"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "helplines": [
+      {
+        "name": "Aquí Estoy (Here I am!)",
+        "description": "Free service for support in suicide prevention",
+        "phone": "(506) 2272–3774",
+        "availability": "Monthly from 2:00 pm – 10:00 pm",
+        "website": "https://psicologiacr.com/aqui-estoy/"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Plavi Telefon",
+        "website": "www.plavi-telefon.hr",
+        "phone": "48 33 888",
+        "description": "Provides support for issues such as depression, alcoholism, drug abuse and suicide"
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "emergency_numbers": {
+      "ambulance": "104",
+      "fire": "105",
+      "police": "106"
+    }
+  },
+  {
+    "country": "Cyprus",
+    "emergency_numbers": {
+      "national": ["112", "199"]
+    },
+    "helplines": [
+      {
+        "name": "Cyprus Samaritans",
+        "website": "http://www.cyprussamaritans.org",
+        "phone": "8000 7773",
+        "availability": "Every day from 4pm to 12am"
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Linka bezpečí",
+        "website": "https://www.linkabezpeci.cz",
+        "phone": "116 111",
+        "description": "For kids under 18 and students under 26 years old"
+      },
+      {
+        "name": "Linka psychické pomoci",
+        "website": "http://linkapsychickepomoci.cz/",
+        "phone": "116 123",
+        "description": "For adults, free, 24/7"
+      },
+      {
+        "name": "Blueline",
+        "phone": ["608 902 410", "731 197 477"],
+        "availability": "9am–9pm"
+      },
+      {
+        "name": "National Medical Emergency Number",
+        "phone": "155"
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Livslinien",
+        "website": "https://www.livslinien.dk",
+        "phone": "70 201 201",
+        "description": "Telephone support from 11am to 4am"
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "Teléfono Amigo",
+        "website": "http://www.telefonoamigo.org/",
+        "availability": "Every day from 09h to 13h and from 15h to 23h",
+        "description": "Hotlines available nationwide"
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "emergency_numbers": {
+      "police": "122",
+      "emergency_health": "123",
+      "foreigners": "126"
+    },
+    "helplines": [
+      {
+        "name": "BeFrienders Cairo",
+        "website": "https://befrienderscairo.com/",
+        "phones": ["762 1602", "762 1603", "762 2381"]
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Eluliin",
+        "website": "https://www.eluliin.ee/",
+        "phone": "655 8088 (Estonian), 655 5688 (Russian)",
+        "availability": "Free, every day from 7pm to 7am"
+      },
+      {
+        "name": "Palunabi",
+        "website": "https://www.palunabi.ee/en",
+        "phone": "116 006",
+        "availability": "Free, 24/7"
+      },
+      {
+        "name": "Hingehoiutelefon",
+        "website": "https://hingehoid.ee/hingehoiutelefon",
+        "phone": "116 123",
+        "availability": "Free, every day from 2pm to 24pm"
+      },
+      {
+        "name": "Lasteabi",
+        "website": "https://www.lasteabi.ee/",
+        "phone": "116 111",
+        "availability": "Free, 24/7"
+      }
+    ]
+  },
+  {
+    "country": "Fiji",
+    "emergency_numbers": {
+      "national": "917"
+    },
+    "helplines": [
+      {
+        "name": "Lifeline Fiji",
+        "phone": "132454",
+        "description": "Runs the National Crisis Line, Crisis Support, and Suicide Intervention line"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "MIELI Mental Health Finland",
+        "website": "https://mieli.fi/en",
+        "phones": ["09 2525 0111 (Finnish)", "09 2525 0112 (Swedish)", "09 2525 0113 (Arabic and English)"],
+        "description": "Assistance and support for those dealing with mental health issues and suicide"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "emergency_numbers": {
+      "national": "112",
+      "ambulance": "15",
+      "deaf_emergency": "114",
+      "police": "17"
+    },
+    "helplines": [
+      {
+        "name": "3114",
+        "description": "National suicide prevention hotline",
+        "phone": "3114",
+        "availability": "Toll-free 24/7"
+      },
+      {
+        "name": "Fil santé jeunes",
+        "website": "http://filsantejeunes.com/",
+        "phone": "0800 235 236",
+        "description": "Anonymous and toll-free number for young people"
+      },
+      {
+        "name": "Suicide écoute",
+        "phone": "01 45 39 40 00",
+        "description": "Suicide prevention helpline (volunteers), 24-hour"
+      },
+      {
+        "name": "SOS Suicide Phénix",
+        "phone": "01 40 44 46 45",
+        "description": "Suicide prevention through listening and hospitality (volunteers)"
+      },
+      {
+        "name": "Sos amitié",
+        "phone": "09 72 39 40 50",
+        "description": "Distress listening on multimedia platform: phone, email, chat (volunteers)",
+        "availability": "Toll-free 24/7"
+      },
+      {
+        "name": "La Croix Rouge Ecoute",
+        "phone": "0 800 858 858",
+        "description": "Psychological support online, anonymous and free (volunteers)"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "emergency_numbers": {
+      "fire_ambulance": "112",
+      "police": "110"
+    },
+    "helplines": [
+      {
+        "name": "Telefonseelsorge",
+        "website": "http://www.telefonseelsorge.de/",
+        "phones": ["0800 111 0 111", "0800 111 0 222", "116 123"],
+        "description": "24/7, no cost"
+      },
+      {
+        "name": "International Helpline Berlin",
+        "phone": "030-44 01 06 07",
+        "description": "Emotional support to people in Germany who are in distress or at risk of suicide"
+      },
+      {
+        "name": "Nummergegen Kummer (Elterntelefon)",
+        "phone": "0800 111 0 550",
+        "description": "Free and anonymous telephone advice throughout Germany, available from Monday to Friday"
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "emergency_numbers": {
+      "national": "112"
+    }
+  },
+  {
+    "country": "Ghana",
+    "emergency_numbers": {
+      "national": "999"
+    },
+    "helplines": [
+      {
+        "name": "National Lifeline",
+        "phone": "2332 444 71279"
+      }
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "emergency_numbers": {
+      "national": "112",
+      "fire_ambulance": "190",
+      "police": "199"
+    },
+    "helplines": [
+      {
+        "name": "GibSams",
+        "website": "https://www.gibsams.gi",
+        "phone": "116123",
+        "availability": "6pm–11pm everyday",
+        "description": "Confidential and anonymous hotline for any issue/problem (Volunteers)"
+      },
+      {
+        "name": "Childline",
+        "website": "https://childline.gi",
+        "phone": "8008",
+        "availability": "5pm–9pm everyday",
+        "description": "Confidential and anonymous hotline for minors regarding any issue/problem (Volunteers)"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "emergency_numbers": {
+      "suicide_hotline": "1018",
+      "national": "112",
+      "police": "100",
+      "fire": "199",
+      "ambulance": "166",
+      "elderly_sos": "1065",
+      "cyber_crime_division": "11188",
+      "children_helpline": "1056",
+      "family_gender_equality": "15900",
+      "lgbt_support": "11528"
+    }
+  },
+  {
+    "country": "Greenland",
+    "emergency_numbers": {
+      "national_crisis": "134"
+    }
+  },
+  {
+    "country": "Guyana",
+    "emergency_numbers": {
+      "national": "999"
+    },
+    "helplines": [
+      {
+        "name": "Guyana Inter-agency Suicide Prevention Helpline",
+        "phones": ["(+592) 223–0001", "(+592) 223–0009", "(+592) 600–7896", "623–4444"],
+        "description": "Launched by the Guyana Police Force in 2015 to help those struggling with suicidal thoughts, available 24/7"
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "emergency_numbers": {
+      "national": "999"
+    },
+    "helplines": [
+      {
+        "name": "Samaritans Hong Kong",
+        "website": "https://samaritans.org.hk",
+        "phone": "2896 0000",
+        "availability": "24/7"
+      },
+      {
+        "name": "Samaritan Befrienders Hong Kong",
+        "phone": "2389 2222",
+        "availability": "24/7"
+      },
+      {
+        "name": "Caritas Crisis line",
+        "website": "https://www.fcec.caritas.org.hk",
+        "phone": "18288",
+        "availability": "24/7"
+      },
+      {
+        "name": "Suicide Prevention Services",
+        "website": "https://www.sps.org.hk/?a=group&id=hotline",
+        "phone": "2382 0000",
+        "availability": "24/7"
+      },
+      {
+        "name": "Harmony House",
+        "website": "https://www.harmonyhousehk.org/eng",
+        "phone": "2522 0434 (female, 24-hour), 2295 1386 (male)"
+      },
+      {
+        "name": "Hong Kong Family Welfare Society",
+        "website": "https://www.hkfws.org.hk/en/how-we-help/integrated-family-services/integrated-family-service-centre",
+        "phone": "2342 3110"
+      },
+      {
+        "name": "Hong Kong Federation of Youth Groups",
+        "website": "http://www.27778899.hk/",
+        "phone": "2777 8899"
+      },
+      {
+        "name": "Hospital Authority",
+        "phone": "2466 7350",
+        "description": "Mental health hotline (24-hour)"
+      },
+      {
+        "name": "Suicide Prevention Services – Youth Link",
+        "website": "https://www.sps.org.hk/?a=doc&id=218",
+        "phone": "2382 0777",
+        "description": "Counselling hotline for youth below 24 year-old (2pm – 2am)"
+      },
+      {
+        "name": "The Family Planning Association of Hong Kong",
+        "website": "https://www.famplan.org.hk/en",
+        "phone": "2572 2222",
+        "description": "Emergency contraception and information on services for sexually assaulted victim (call within 72 hours of the assault)"
+      },
+      {
+        "name": "The Society for the Aid and Rehabilitation of Drug Abusers",
+        "website": "http://www.sarda.org.hk/eng/index.html",
+        "phone": "2574 3300",
+        "description": "Information on services of drug rehabilitation and counselling"
+      },
+      {
+        "name": "Tung Wah Group of Hospitals CEASE Crisis Centre",
+        "website": "http://ceasecrisis.tungwahcsd.org/document/pamphlet_eng.pdf",
+        "phone": "18281",
+        "description": "Crisis intervention and support services to individuals/ families in crisis (24-hour)"
+      },
+      {
+        "name": "Youth Outreach Youth Hotline",
+        "website": "http://www.yo.org.hk/ENG/index_e.html",
+        "phone": "9088 1023",
+        "description": "Counselling service and short term housing for 10–18 year old youth (24-hour)"
+      },
+      {
+        "name": "YWCA Hotline",
+        "website": "https://www.ywca.org.hk/",
+        "phone": "2711 6622",
+        "description": "Counselling services (Mon – Fri , 7 – 9:30pm)"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "LESZ",
+        "website": "https://sos116-123.hu/",
+        "phone": "116–123 or 06 80 810–600",
+        "availability": "24/7",
+        "description": "Anonym helpline providing emotional support for those who are stressed, distressed, depressed, or suicidal"
+      },
+      {
+        "name": "Blue Line",
+        "website": "https://kek-vonal.hu/",
+        "phone": "116–111",
+        "availability": "24/7",
+        "description": "Anonym child crisis helpline providing emotional support for young people"
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Hjálparsími Rauða Krossins (Red Cross assistance phone)",
+        "phone": "1717",
+        "website": "https://www.raudikrossinn.is/hvad-gerum-vid/hjalparsiminn-1717/hvad-gerum-vid-3"
+      },
+      {
+        "name": "The Pieta Organization",
+        "phone": "552 2218"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Kiran",
+        "website": "https://www.unity-project.org/kiran",
+        "phone": "1800-599-0019",
+        "description": "National 24/7 toll free helpline for suicidal thoughts, depression, and other mental health issues"
+      },
+      {
+        "name": "Muktaa Mental Health Helpline",
+        "website": "http://www.muktaamentalhealth.com",
+        "phone": "788-788-9882",
+        "availability": "12 – 8PM, Mon-Sat",
+        "description": "Suicidal Thoughts, Uncontrollable Anger, Relationship Issues, Sexual Concerns, Family & Relatives, Peers & Friendships, Academics & Career, Sadness & Depression, Gender & Sexuality, Anxiety & Stress"
+      },
+      {
+        "name": "Samaritans Mumbai",
+        "website": "http://samaritansmumbai.com",
+        "phone": "+91 8422984530",
+        "availability": "3 pm to 9 pm, all days",
+        "description": "Emotional support for those who are stressed, distressed, depressed, or suicidal"
+      },
+      {
+        "name": "Vandrevala Foundation",
+        "website": "http://www.vandrevalafoundation.com",
+        "phone": "+91 9999666555",
+        "description": "A 24/7 helpline providing free psychological counselling and crisis intervention for anyone who needs mental health support in India"
+      },
+      {
+        "name": "Mitram Foundation",
+        "website": "http://mitramfoundation.org",
+        "availability": "10am to 2pm, Monday to Saturday"
+      },
+      {
+        "name": "AASRA",
+        "website": "http://www.aasra.info",
+        "phone": "+91–22–27546669",
+        "description": "A 24/7 nationwide voluntary, professional, and confidential service"
+      },
+      {
+        "name": "1Life",
+        "website": "https://1life.org.in",
+        "phone": "+91 78930 78930",
+        "description": "A 24/7 helpline for suicide prevention and crisis support"
+      },
+      {
+        "name": "Sneha India",
+        "website": "http://www.snehaindia.org",
+        "phone": "+91 44 2464 0060",
+        "description": "Available 24/7 on the phone"
+      },
+      {
+        "name": "Befrienders India",
+        "website": "http://befriendersindia.net/helpline-details.php",
+        "description": "Contact numbers of local crisis helplines in 15+ cities in India"
+      },
+      {
+        "name": "Save Indian Family Foundation",
+        "website": "https://www.saveindianfamily.org",
+        "description": "Contact numbers of local helplines across India"
+      },
+      {
+        "name": "Lifeline Foundation (Kolkata)",
+        "website": "http://www.lifelinefoundation.in",
+        "phone": "+91 9088030303, 03340447437",
+        "description": "Tele-helpline for providing emotional support to distressed, depressed, or suicidal individuals"
+      },
+      {
+        "name": "iCall",
+        "website": "https://icallhelpline.org",
+        "availability": "Mon to Sat from 10 am – 8 pm",
+        "description": "Telephone and email-based counselling service run by School of Human Ecology, Tata Institute of Social Sciences, offering free services"
+      },
+      {
+        "name": "Jeevan Aastha Helpline",
+        "description": "An initiative by the Gandhinagar Police Department, Gujarat to provide assistance to those seeking immediate mental health counselling across India"
+      },
+      {
+        "name": "CHILDLINE 1098",
+        "description": "For children in distress, working with Child Welfare Committee to provide long-term rehabilitation"
+      },
+      {
+        "name": "Ava – Mental Wellness",
+        "website": "https://avamentalwellness.com"
+      },
+      {
+        "name": "LonepackBuddy",
+        "website": "https://lonepack.org/app/home"
+      },
+      {
+        "name": "Nowandme",
+        "website": "https://nowandme.com"
+      },
+      {
+        "name": "It's ok to talk",
+        "website": "http://itsoktotalk.in"
+      },
+      {
+        "name": "TickTalkTo",
+        "website": "https://ticktalkto.com"
+      },
+      {
+        "name": "Therapeer",
+        "website": "https://www.therapeer.app"
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "emergency_numbers": {
+      "national": "119"
+    },
+    "helplines": [
+      {
+        "name": "Ministry of Health Hotline (Kementerian Kesehatan)",
+        "phone": "1500–567"
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "emergency_numbers": {
+      "police": "110",
+      "ambulances": "115"
+    },
+    "helplines": [
+      {
+        "name": "Iran National Organization of Well-Being",
+        "website": "https://irancrisisline.org/",
+        "phone": "123",
+        "description": "Free services for a variety of problems including marriage, family, youth and children, suicide, etc."
+      },
+      {
+        "name": "Iran Crisis Text Line",
+        "website": "https://irancrisisline.org/",
+        "description": "Free, confidential 24/7 national crisis-intervention text-message service"
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "emergency_numbers": {
+      "national": "112",
+      "police": "999"
+    },
+    "helplines": [
+      {
+        "name": "Samaritans",
+        "website": "http://www.samaritans.org/",
+        "phone": "116 123",
+        "description": "Emotional support to anyone in distress or at risk of suicide throughout Ireland"
+      },
+      {
+        "name": "50808",
+        "website": "https://text50808.ie/",
+        "description": "Free, confidential 24/7 national crisis-intervention text-message service"
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "emergency_numbers": {
+      "police": "100",
+      "ambulances": "101"
+    },
+    "helplines": [
+      {
+        "name": "Eran.org.il Suicide line",
+        "website": "https://www.eran.org.il/",
+        "phone": "1201 or 972-9 8891333",
+        "availability": "24/7",
+        "description": "Operates 24/7 including holidays, offering SMS service during Sunday – Friday between 14:00–18:00"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Servizio per la Prevenzione del Suicidio (SPS)",
+        "website": "http://www.prevenireilsuicidio.it/",
+        "description": "Suicide prevention helpline providing psychological and emotional support to anyone in suicidal crisis"
+      },
+      {
+        "name": "Samaritans – ONLUS",
+        "website": "http://www.samaritansonlus.org",
+        "phone": "800 86 00 22, 06 77208977",
+        "availability": "1pm to 10pm"
+      },
+      {
+        "name": "Telefono Amico",
+        "website": "http://www.telefonoamico.it",
+        "phone": "199284284",
+        "availability": "10am to 12am"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "emergency_numbers": {
+      "police": "110",
+      "ambulances": "119"
+    },
+    "helplines": [
+      {
+        "name": "TELL",
+        "website": "http://telljp.com/lifeline/",
+        "description": "Free, confidential English-language Lifeline service for the international community in Japan"
+      },
+      {
+        "name": "Befrienders Worldwide Osaka Suicide Prevent Center",
+        "website": "http://www.spc-osaka.org"
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "Families & Children Helpline",
+        "website": "https://www.jordanriver.jo/en/programs/protecting-children/110-families-children",
+        "phone": "110",
+        "description": "The Helpline offers services in psychological support and consultation, as well as referrals. The initiative aims to alleviate the effect of risk factors children in vulnerable families are exposed to, including families facing challenges impairing their parenting, as well as abuse cases."
+      }
+    ]
+  },
+  {
+    "country": "Korea",
+    "emergency_numbers": {
+      "police": "112",
+      "ambulances": "119"
+    },
+    "helplines": [
+      {
+        "name": "Medical Emergency for Foreigners in Seoul",
+        "phone": "1339",
+        "description": "Provides medical emergency services for foreigners in Seoul"
+      },
+      {
+        "name": "Suicide.org",
+        "website": "https://www.suicide.org",
+        "description": "Provides a list of South Korean suicide hotlines"
+      },
+      {
+        "name": "Counsel24",
+        "phone": "1566-2525",
+        "description": "Crisis counseling hotline available 24/7"
+      },
+      {
+        "name": "Lifeline Korea",
+        "phone": "1588-9191",
+        "description": "Offers support and counseling services"
+      },
+      {
+        "name": "Mental Health Center Crisis Counseling",
+        "phone": "1577-0199",
+        "description": "Provides crisis counseling services 24/7"
+      },
+      {
+        "name": "Ministry of Health & Welfare Call Center",
+        "phone": "129",
+        "description": "24-hour call center for health and welfare inquiries"
+      },
+      {
+        "name": "Youth Cyber Counselling Center",
+        "phone": "1388",
+        "description": "Provides counseling services for youth aged 9-24"
+      },
+      {
+        "name": "Suicide Prevention Line",
+        "phone": "109",
+        "description": "Hotline for suicide prevention"
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "Befrienders Kenya",
+        "phone": "+254 722 178 177",
+        "description": "Provides emotional support and crisis intervention"
+      },
+      {
+        "name": "Mental Health Department – Kenyatta Hospital",
+        "phone": "+254 20 3000378, +254 20 2051323",
+        "description": "Offers mental health services and support"
+      }
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "emergency_numbers": {},
+    "helplines": [
+      {
+        "name": "Suicide Prevention Hotline",
+        "phone": "080012345",
+        "description": "Provides support and intervention for suicide prevention"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Skalbes.lv",
+        "website": "http://www.skalbes.lv/",
+        "phone": "+371 67222922 or +371 27722292",
+        "description": "Provides 24-hour support on all weekdays"
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "emergency_numbers": {},
+    "helplines": [
+      {
+        "name": "Embrace Emotional Support and Suicide Prevention LifeLine",
+        "phone": "1564 (Lebanon) or +961-1-341941 (International)",
+        "languages": ["Arabic", "English", "French"],
+        "website": "https://embracelebanon.org/",
+        "description": "Provides emotional support and suicide prevention services"
+      }
+    ]
+  },
+  {
+    "country": "Liberia",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "Lifeline Liberia",
+        "phone": "6534308",
+        "description": "Provides crisis intervention and emotional support"
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Vilties Linija (Hope Line)",
+        "phone": "116 123",
+        "description": "Provides free and anonymous prevention of suicide and psychological crises for adults 24/7"
+      },
+      {
+        "name": "Vaikų linija (Child Line)",
+        "phone": "116 111",
+        "availability": "11:00 AM to 11:00 PM",
+        "description": "Provides free and anonymous help to children and teenagers by phone and online"
+      },
+      {
+        "name": "Jaunimo linija (Youth Line)",
+        "phone": "8 800 28888",
+        "availability": "24/7",
+        "description": "Provides free, confidential, and anonymous emotional support for youth"
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "454545.lu",
+        "website": "https://454545.lu/",
+        "phone": "+352 45 45 45",
+        "availability": "11h-23h on all weekdays and 11h-3h on Friday and Saturday",
+        "description": "Provides support services"
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "emergency_numbers": {
+      "national": "999"
+    },
+    "helplines": [
+      {
+        "name": "Official Kasih Helpline",
+        "phone": "15999",
+        "description": "Offers 24/7 crisis hotline and counselling services"
+      },
+      {
+        "name": "Befrienders",
+        "website": "http://www.befrienders.org.my",
+        "phone": "03–79568144 or 03–79568145",
+        "description": "Offers a 24/7 confidential hotline"
+      },
+      {
+        "name": "MIASA",
+        "phone": "1–800–820066",
+        "description": "Offers a 24/7 crisis hotline and counselling services, also provides WhatsApp crisis support"
+      },
+      {
+        "name": "Buddy Bear",
+        "phone": "03–9779 5550",
+        "availability": "12 PM to 12 AM everyday",
+        "description": "Offers crisis hotline for children and Facebook messaging support"
+      },
+      {
+        "name": "Lifeline Association Counselling Hotline for suicide",
+        "phone": "03–42657995, 011–3157 1495, or 016–720 1495",
+        "description": "Provides counselling hotline for suicide"
+      },
+      {
+        "name": "Malaysia Mental Health Association",
+        "description": "Serves as a counselling service for mental health"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Appogg Supportline",
+        "phone": "179"
+      }
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "emergency_numbers": {
+      "police": "112",
+      "ambulances": "114"
+    },
+    "helplines": [
+      {
+        "name": "Befrienders Mauritius",
+        "website": "http://www.befrienders.org/directory?country=MU",
+        "phone": "+230 800 93 93",
+        "availability": "09:00 to 21:00 daily",
+        "description": "Offers a limited-hour crisis helpline for English and French speakers"
+      },
+      {
+        "name": "Mauritius Suicide Prevention Lifeline",
+        "description": "Offers emotional support helpline for suicide prevention and mental health promotion"
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "SAPTEL",
+        "website": "http://www.saptel.org.mx/index.html",
+        "phone": "(55) 5259–8121",
+        "description": "Independent care provider subsidized by the Mexican Red Cross, offering crisis dialogue or treatment for mental health crisis"
+      },
+      {
+        "name": "UAM",
+        "phone": "(55) 5804-644 or (55) 5804-4879",
+        "chat": "https://www.uam.mx/lineauam/lineauam_chat.htm",
+        "description": "Operates Monday to Friday"
+      },
+      {
+        "name": "Instituto Nacional de Psiquiatria",
+        "phone": "(55) 5655–3080 or (800) 953–1704"
+      },
+      {
+        "name": "Asociación Mexicana de Psicología y Desarrollo Comunitario",
+        "website": "www.psicologiaydesarrollocomunitario.com",
+        "whatsapp": "4432383502",
+        "description": "Provides psychology services 24/7"
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "emergency_numbers": {},
+    "helplines": [
+      {
+        "name": "Sourire de Reda (Befrienders Casablanca)",
+        "website": "https://www.sourire2reda.org",
+        "phone": "+212 (5) 22 87 47 40 Landline or +212 (6) 62 58 95 70 Mobile",
+        "availability": "09:00 to 17:00, Monday to Friday",
+        "languages_spoken": "French, Arabic"
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "helplines": [
+      {
+        "name": "Suicide Prevention Helpline Center",
+        "phone": "1166",
+        "availability": "Toll-free"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Stichting 113 Zelfmoordpreventie",
+        "website": "https://www.113.nl/",
+        "phone": "113 (regular fees) or 0800 0113 (free)"
+      },
+      {
+        "name": "113 Zelfmoordpreventie Webchat",
+        "website": "https://www.113.nl/ik-denk-aan-zelfmoord/hulplijn"
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "emergency_numbers": {
+      "national": "111"
+    },
+    "helplines": [
+      {
+        "name": "1737, need to talk?",
+        "website": "http://www.1737.org.nz"
+      },
+      {
+        "name": "Lifeline Aotearoa",
+        "website": "http://www.lifeline.org.nz",
+        "phone": "09 5222 999 (Auckland) or 0800 543 354 (outside Auckland)"
+      },
+      {
+        "name": "Samaritans Aotearoa New Zealand",
+        "website": "http://www.samaritans.org.nz",
+        "phone": "0800 72 66 66"
+      },
+      {
+        "name": "Youthline",
+        "website": "https://www.youthline.co.nz",
+        "phone": "0800 376 633",
+        "text": "234"
+      },
+      {
+        "name": "The Lowdown",
+        "website": "https://thelowdown.co.nz",
+        "text": "5626"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "emergency_numbers": {
+      "police": "112",
+      "ambulances": "113"
+    },
+    "helplines": [
+      {
+        "name": "Mental Helse",
+        "website": "http://sidetmedord.no",
+        "phone": "116 123",
+        "availability": "24/7"
+      },
+      {
+        "name": "Kirkens SOS",
+        "phone": "22 40 00 40",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "emergency_numbers": {
+      "police": "15, 115",
+      "ambulances": "1122"
+    },
+    "helplines": [
+      {
+        "name": "Umang Hotline Pakistan",
+        "website": "https://www.umang.com.pk/",
+        "phone": "(92) 0311 7786264 / 0311 (77UMANG)",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "The National Center for Mental Health Crisis Hotline",
+        "website": "https://ncmh.gov.ph/",
+        "phone": "1553, 0917 899 USAP (8727), 0966 351 4518, 0908 639 2672"
+      },
+      {
+        "name": "Natasha Goulbourn Foundation",
+        "phone": "(02) 8804-HOPE (4673), 0917 558 HOPE (4673), 0918 873 HOPE (4673)"
+      },
+      {
+        "name": "Manila Lifeline Centre",
+        "phone": "(02) 8896–9191"
+      },
+      {
+        "name": "In Touch Community Services 24/7 Crisis Hotline",
+        "phone": "(02) 8893 7603, 0917 800 1123, 0922 893 8944"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Foundation 'Dajemy Dzieciom Siłę'",
+        "phone": "116 111",
+        "availability": "24/7"
+      },
+      {
+        "name": "Polish Psychological Association",
+        "phone": "116 123",
+        "availability": "14:00-22:00"
+      },
+      {
+        "name": "ITAKA Foundation",
+        "phone": "800 70 2222",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Voz de Apoio",
+        "website": "http://www.vozdeapoio.pt",
+        "phone": "225 50 60 70"
+      },
+      {
+        "name": "Sos Voz Amiga",
+        "website": "http://www.sosvozamiga.org",
+        "phone": "213 544 545, 912 802 669, 963 524 660"
+      },
+      {
+        "name": "Sos Estudante",
+        "website": "http://sosestudante.pt",
+        "phone": "915 246 060, 969 554 545, 239 484 020"
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "emergency_numbers": {
+      "ambulance": "106",
+      "police": "105",
+      "fire": "116"
+    },
+    "helplines": [
+      {
+        "name": "Teléfono de la Esperanza",
+        "phone": "(01) 273-8026",
+        "availability": "Monday to Saturday, 3pm to 9:30pm"
+      },
+      {
+        "name": "Centro Peruano de Suicidología y Prevención del Suicidio (Sentido)",
+        "phone": "(01) 498-2711"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Alianța Română de Prevenție a Suicidului",
+        "website": "http://www.antisuicid.com/",
+        "phone": "0800 801 200",
+        "availability": "19:00-07:00"
+      },
+      {
+        "name": "Asociația de Suicidologie",
+        "website": "http://www.preveniresuicid.eu/pagina-principala/",
+        "phone": "0800 080 100, 116 123",
+        "availability": "24/7"
+      },
+      {
+        "name": "TelVerde antidepresie",
+        "phone": "0800 0800 20",
+        "availability": "24/7"
+      },
+      {
+        "name": "Helpline anti-anxietate",
+        "phone": "0374 456 420",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Samaritans (Cherepovets)",
+        "phone": "007 (8202) 577–577",
+        "availability": "9am-9pm"
+      },
+      {
+        "name": "Suicide helpline",
+        "phone": "(495) 625 3101"
+      },
+      {
+        "name": "EMERCOM Psychological Service",
+        "website": "https://psi.mchs.gov.ru/",
+        "phone": "+7 (495) 989–50–50"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "emergency_numbers": {
+      "police": "194"
+    },
+    "helplines": [
+      {
+        "name": "SRCE Novi Sad",
+        "phone": "(+381) 21-6623-393, 0800–300–303",
+        "availability": "2pm-11pm"
+      },
+      {
+        "name": "Dr Laza Lazarević Clinic for Suicide Prevention",
+        "phone": "011 7777–000"
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "emergency_numbers": {
+      "police": "999",
+      "ambulances": "995"
+    },
+    "helplines": [
+      {
+        "name": "The Samaritans of Singapore",
+        "website": "https://sos.org.sg/",
+        "phone": "Unknown",
+        "availability": "24/7, toll-free, confidential"
+      },
+      {
+        "name": "The Institute of Mental Health (Singapore) Mental Health Helpline",
+        "phone": "6389 2222",
+        "availability": "24/7"
+      },
+      {
+        "name": "The Singapore Association of Mental Health",
+        "website": "http://www.samhealth.org.sg/",
+        "phone": "Unknown"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Linka dôvery (Prešov)",
+        "phone": "051 / 7731 000",
+        "availability": "Monday: 7.00 – 15.30, Tuesday to Thursday: 7.00. –15.00, Friday: 7.00 – 14.30"
+      },
+      {
+        "name": "IPčko.sk",
+        "website": "www.ipcko.sk",
+        "availability": "7am to midnight"
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Zaupni telefon Samarijan in Sopotnik",
+        "website": "http://www.telefon-samarijan.si/",
+        "phone": "116 123",
+        "availability": "24/7"
+      },
+      {
+        "name": "TOM – telefon za otroke in mladostnike",
+        "website": "http://www.e-tom.si",
+        "phone": "116 111",
+        "availability": "7 days a week, 13:00 – 20:00"
+      },
+      {
+        "name": "Klic v duševni stiski",
+        "website": "http://www.psih-klinika.si/koristne-informacije/klic-v-dusevni-stiski/",
+        "phone": "(01) 520–99–00",
+        "availability": "7 days a week, 19:00 – 7:00"
+      },
+      {
+        "name": "Ženska svetovalnica – krizni center",
+        "website": "http://www.drustvo-zenska-svetovalnica.si/o-nas",
+        "phone": "+386 31 233 211",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "emergency_numbers": {
+      "police": "10111",
+      "ambulances": "10177"
+    },
+    "helplines": [
+      {
+        "name": "The Triangle project",
+        "website": "https://triangle.org.za/about/",
+        "phone": "(021) 712 6699",
+        "availability": "Daily, 13:00 to 21:00"
+      },
+      {
+        "name": "Suicide Crisis Line",
+        "phone": "0800 567 567",
+        "sms": "SMS 31393"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Suicide Crisis Line",
+        "phone": "024",
+        "availability": "24/7, free of charge"
+      },
+      {
+        "name": "Teléfono de la Esperanza",
+        "website": "http://www.telefonodelaesperanza.org",
+        "phone": "717 003 717",
+        "availability": "24/7"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Självmordslinjen (Suicide prevention hotline)",
+        "website": "https://mind.se/hitta-hjalp/sjalvmordslinjen/",
+        "phone": "90101",
+        "availability": "24-hour email, chat, and hotline service, toll-free"
+      },
+      {
+        "name": "BRIS – Barnens rätt i samhället (Children's right in society)",
+        "website": "https://www.bris.se/",
+        "phone": "116 111",
+        "availability": "Every day of the year, 14:00 – 21:00"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "emergency_numbers": {
+      "national": "144"
+    },
+    "helplines": [
+      {
+        "name": "Die dargebotene Hand",
+        "website": "https://www.143.ch/",
+        "phone": "143",
+        "description": "Helpline for any kind of life crisis and mental health problems"
+      },
+      {
+        "name": "Pro Juventute",
+        "website": "https://www.147.ch/",
+        "phone": "147",
+        "description": "Helpline for minors under 18 years especially"
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "emergency_numbers": {
+      "national": "119"
+    },
+    "helplines": [
+      {
+        "name": "MOHW Suicide Prevention Line",
+        "website": "https://www.mohw.gov.tw/cp-16-48244-1.html",
+        "phone": "1925"
+      },
+      {
+        "name": "Lifeline",
+        "website": "http://www.life1995.org.tw/",
+        "phone": "1995"
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "emergency_numbers": {
+      "national": "191"
+    },
+    "helplines": [
+      {
+        "name": "Samaritans of Thailand",
+        "phone": "(02) 713–6793"
+      },
+      {
+        "name": "Samaritans of Thailand for English speakers",
+        "phone": "(02) 713–6791"
+      },
+      {
+        "name": "Mental Health Hotline (Department of Mental Health, Ministry of Public Health)",
+        "phone": "1323"
+      },
+      {
+        "name": "National Ambulance Service",
+        "phone": "1554"
+      },
+      {
+        "name": "Medical Emergency",
+        "phone": "1669"
+      }
+    ]
+  },
+  {
+    "country": "Tonga",
+    "helplines": [
+      {
+        "name": "Lifeline",
+        "phone": "23000"
+      }
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "helplines": [
+      {
+        "name": "Lifeline",
+        "phone": "(868) 645 2800"
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "emergency_numbers": {
+      "national": "112"
+    },
+    "helplines": [
+      {
+        "name": "Social Support Hotline",
+        "phone": "183"
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "helplines": [
+      {
+        "name": "Lifeline",
+        "phone": "7333"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "emergency_numbers": {
+      "national": "112",
+      "Indian expats": "800 46342"
+    },
+    "helplines": [
+      {
+        "name": "National Committee for the Promotion of Mental Health",
+        "phone": "920033360"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "emergency_numbers": {
+      "national": "999, 112"
+    },
+    "helplines": [
+      {
+        "name": "National Suicide Prevention Helpline UK",
+        "website": "https://www.spbristol.org/",
+        "phone": "0800 689 5652",
+        "availability": "24/7"
+      },
+      {
+        "name": "SOS Silence of Suicide",
+        "phone": "0300 1020 505",
+        "availability": "8pm until Midnight, Friday to Monday inclusive"
+      },
+      {
+        "name": "Samaritans",
+        "website": "http://www.samaritans.org/",
+        "phone": "116 123",
+        "availability": "24/7, toll-free crisis line"
+      },
+      {
+        "name": "Campaign Against Living Miserably (CALM)",
+        "website": "https://www.thecalmzone.net/",
+        "phone": "0800 58 58 58",
+        "availability": "Every day from 5PM to midnight"
+      },
+      {
+        "name": "Shout",
+        "website": "https://www.giveusashout.org/",
+        "phone": "Text SHOUT to 85258",
+        "description": "UK's first free 24/7 text service for anyone in crisis"
+      },
+      {
+        "name": "PAPYRUS Prevention of Young Suicide",
+        "website": "https://www.papyrus-uk.org/",
+        "phone": "0800 068 4141",
+        "sms": "Text 07860039967",
+        "email": "pat@papyrus-uk.org"
+      },
+      {
+        "name": "Lifeline",
+        "website": "https://www.lifelinehelpline.info/",
+        "phone": "0808 808 8000"
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "emergency_numbers": {
+      "national": "911"
+    },
+    "helplines": [
+      {
+        "name": "211",
+        "description": "Emergency referrals to social and community services",
+        "availability": "Varies by state"
+      },
+      {
+        "name": "988 Suicide & Crisis Lifeline",
+        "website": "https://988lifeline.org/",
+        "phone": "988",
+        "availability": "24/7, toll-free, confidential"
+      },
+      {
+        "name": "Veterans Crisis Line",
+        "website": "https://www.veteranscrisisline.net/",
+        "phone": "988 or 1–800–273–8255, Press 1",
+        "sms": "Text to 838255",
+        "description": "24-hour hotline for military veterans and their families"
+      },
+      {
+        "name": "Crisis Text Line",
+        "website": "crisistextline.org",
+        "phone": "Text HOME to 741–741",
+        "description": "24/7, nationwide crisis-intervention text-message hotline"
+      },
+      {
+        "name": "Samaritans USA",
+        "website": "http://www.samaritansusa.org/"
+      },
+      {
+        "name": "The Trevor Project",
+        "website": "http://www.thetrevorproject.org/",
+        "phone": "1–866–488–7386",
+        "sms": "Text START to 678–678",
+        "description": "24-hour hotline, webchat, and text options for LGBTQ+ and questioning youth"
+      },
+      {
+        "name": "Trans Lifeline",
+        "website": "https://www.translifeline.org/",
+        "phone": "1–877–565–8860",
+        "description": "24-hour crisis intervention hotline for transgender individuals"
+      },
+      {
+        "name": "Youthline",
+        "website": "https://www.theyouthline.org/",
+        "phone": "877-968-8491",
+        "sms": "Text 'teen2teen' to 839863",
+        "description": "Free teen-to-teen crisis support and help line run by a nonprofit"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "helplines": [
+      {
+        "name": "24/7 Lifeline",
+        "phone": "08000767 or *0767"
+      }
+    ]
+  }
+]

@@ -1,11 +1,13 @@
 import { Client, Collection } from 'discord.js';
 import path from 'node:path';
-import { ModLogs, helplines } from '../functions';
+import { ModLogs } from '../functions';
 import { Handler } from '../handler';
 import { config } from '../utils';
 import colors from '../utils/colors';
 import { Database } from './Prisma';
 import { clientOptions } from './utils/ClientOptions';
+
+import helplines from '../utils/configs/helplines.json';
 
 export class ClientClass extends Client {
   public buttons = new Collection();
@@ -22,7 +24,7 @@ export class ClientClass extends Client {
   public async init() {
     console.info(colors.yellow('Bot is loading...'));
 
-    await this.helplines.start();
+    // await this.helplines.start();
     await this.modLogs.init(this);
 
     new Handler({
