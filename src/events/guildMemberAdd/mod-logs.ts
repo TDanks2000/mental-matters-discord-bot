@@ -5,7 +5,6 @@ import { ClientClass } from '../../structure/Client';
 export default function (member: GuildMember | PartialGuildMember, client: ClientClass, handler: Handler) {
   try {
     if (!member.guild) return;
-    console.log('test');
 
     const modLogs = client.modLogs.get(member.guild.id);
     if (!modLogs) return;

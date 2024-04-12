@@ -11,7 +11,7 @@ export default function (member: GuildMember | PartialGuildMember, client: Clien
     if (!modLogs) return;
 
     const embed = new EmbedBuilder()
-      .setColor('Green')
+      .setColor('Red')
       .setTitle('User Left')
       .setAuthor({ name: member?.user.tag, iconURL: member.user.displayAvatarURL() })
       .setDescription(`${member} has left the server.`)

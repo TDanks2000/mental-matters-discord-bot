@@ -2,7 +2,6 @@ import { GuildMember } from 'discord.js';
 import { ClientClass } from '../../structure/Client';
 
 export default async function (member: GuildMember, client: ClientClass) {
-  console.log('test');
   if (member.user.bot) return;
 
   const db = client.db.autoJoinRoles;

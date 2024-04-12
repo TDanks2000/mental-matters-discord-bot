@@ -2,7 +2,9 @@ import { EmbedBuilder, Message, PartialMessage } from 'discord.js';
 import { ClientClass } from '../../structure/Client';
 
 export default async function (message: Message | PartialMessage, client: ClientClass) {
-  const guildId = message.guild!.id;
+  if (!message.guild) return;
+
+  const guildId = message.guild.id;
 
   if (!message.author || message.author.bot || !message.content) return;
   if (isNaN(parseInt(message.content))) return;
@@ -20,12 +22,10 @@ export default async function (message: Message | PartialMessage, client: Client
   if (!data) return;
 
   const list = [
-    ` <USER> Is stupid and ruined it at **${data.count}**`,
-    `What the *BEEP* you *BEEP* <USER> Ruined it at **${data.count}**`,
-    `<USER> has RUINED! RUINED! RUINED! it at  **${data.count}** `,
-    `<USER> has RUINED it at **${data.count}**`,
-    `what where you thinking <USER>! you ruined it at **${data.count}**`,
-    `omg its all gone to *BEEP* we can't have anything nice omg, you have actually ruined all this hard work  <USER> at **${data.count}**`,
+    `it's okay <USER>, let's try again!`,
+    `it's okay <USER>, try again!`,
+    `it's okay <USER>, try harder!`,
+    `The count is wrong <USER>, try again!`,
   ];
 
   if (message.channel.id === data.channel_id) {
@@ -66,7 +66,7 @@ export default async function (message: Message | PartialMessage, client: Client
       },
       data: {
         last_person_id: message.author.id,
-        count: data.count++,
+        count: (data.count += 1),
       },
     });
   }

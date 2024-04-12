@@ -98,6 +98,7 @@ model ChannelSettings {
   channel_id_members        String?  @unique
   channel_id_online         String?  @unique
   channel_id_offline        String?  @unique
+  join_messages             String?  @unique
 }
 
 model RedditPosts {
